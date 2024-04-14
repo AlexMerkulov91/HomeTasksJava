@@ -7,6 +7,7 @@ public class Exercise3 {
         System.out.println(x);
         System.out.println(y);
 
+
         int z = 21;
         int n = z--;
         System.out.println(z);
